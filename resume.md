@@ -122,8 +122,8 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 
 ## Activities and Interests
 *	Certified Open Water Diver, Padi Nov’24
+*	Trekking at 13,500 feet at Brahmatal, Greater Himalayas, India. 
 *	Creative Lead at Google Student Ambassador Program.
 *	Diploma in VLSI conducted by ekLakshya VLSI R&D Center Pvt. Ltd. 
 *	Runner-Up in the National Conference on "Recent Technologies in Electronics and Communication" Techxellence – 2016
-*	Trekking at 13,500 feet at Brahmatal, Greater Himalayas, India. 
 *	Language Skills: English – Professional Level, German – A2 Level 
