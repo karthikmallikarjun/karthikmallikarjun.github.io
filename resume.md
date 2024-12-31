@@ -16,7 +16,17 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 
 ## Professional Experience
 
-### Data Scientist | Creditshelf AG, Frankfurt, Germany | Sep’21 - Present*
+### Consultant Product Owner | Deutsche Bank, Frankfurt, Germany | Feb’24 - Present*
+**Regulatory Framework Implementation**
+*	Spearheaded the Basel IV project, implementing flooring logic for the Full Standard Approach (FSA), ensuring alignment with global financial standards and reducing operational risk.
+*   Designed and implemented advanced Financial Methodologies: 
+    1. Leverage Exposure (LE) Calculations, optimizing risk-adjusted financial assessments.
+    2. Expected Loss Shortfall: Contributed to accurate risk modeling and capital adequacy projections.
+    3. Assessing the impact of High-Quality Liquid Assets (HQLA) on leverage exposure and net income before tax (NIBT), improving liquidity risk management frameworks.
+*   Product Ownership and Development: Defined and prioritized product roadmaps, ensuring alignment with stakeholder needs and regulatory timelines. Collaborated cross-functionally with engineering, finance, and risk teams to deliver impactful solutions.
+*   Strategic Delivery: Championed agile methodologies to deliver high-quality products within stringent deadlines, ensuring compliance with evolving regulatory standards.
+
+### Data Scientist | Creditshelf AG, Frankfurt, Germany | Sep’21 - Oct’23
 **Document Classifier | Data Modelling**
 *	Leveraged machine learning techniques to implement OCR-based extraction for scanned and well-formatted PDF documents, reducing human effort in data extraction.
 *	Developed a qualitative classifier using the XGBoost algorithm to classify documents into predefined classes based on extracted text, achieving an accuracy of 86%.
@@ -44,7 +54,7 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 *   Suggest architectural enhancements for the infrastructure and contribute to co-authoring architecture proposal documents.
 
 
-###  Data Scientist | FGFIS Global Services India LLP (Fossil Group), Bengaluru, IN | Nov ’19 – July’ 21	
+###  Data Scientist | FGFIS Global Services India LLP (Fossil Group), Bengaluru, IN | Nov’19 – July’21	
 **Channel Sales Analysis**
 *	Develop business architecture using requirements such as scope, processes, alternatives, and risks.
 *	Understand business requirement, trends and generate business insights. Performed EDA on the data set to gather insights. 
@@ -65,7 +75,7 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 *	Data cleaning and formatting in python using packages such as pandas, speedml, sklearn.
 *	Converting natural language questions to SQL/MDX queries using python's NLTK library.
 
-### Associate Consultant | Capgemini Technology Services Pvt. Ltd, Bengaluru, IN | Dec ’16 – Oct’ 19
+### Associate Consultant | Capgemini Technology Services Pvt. Ltd, Bengaluru, IN | Dec’16 – Oct’19
 **Upskilling and Digital Transformation**
 *	Developed the Decision Tree to find the most suitable training and send emailers to the employees to take the most relevant training for upskilling.
 *	Build and construct prototypes, proof of concepts and present to the business using Tableau visualization tool. 
@@ -84,11 +94,11 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 *	Scrapping data using Pythons Beautiful Soup and Newspaper packages.
 *	Performed data cleansing and Sentiment analysis using NLTK (Python)
 
-### Analyst | Axa Technology Services, Bengaluru, IN | July ’16– Dec ‘16
+### Analyst | Axa Technology Services, Bengaluru, IN | July’16– Dec’16
 *   Installing and configuring Citrix XenApp Server along with various data sources such as MySQL, SQL server, PostgreSQL and ingesting data from them in into Apache Kafka using python.
 *   Automating the monitoring and health check of the Citrix infrastructure through PowerShell and Python scripts and generating essentials repots. 
 
-### Junior Web Developer, Intern | Treat Well, Bengaluru, IN | Dec ’14 – Jan ‘15	
+### Junior Web Developer, Intern | Treat Well, Bengaluru, IN | Dec’14 – Jan’15	
 *   Write well-designed, testable, efficient code by using best practices. 
 *   Creating website layout/user interfaces by using standard HTML/CSS practices. 
 *   Integrating data from various back-end services like GCP and databases.
@@ -96,20 +106,22 @@ Links: [Github](https://github.com/karthikmallikarjun) & [LinkedIN](https://www.
 
 ## Technical Skills
 *	**Languages:** Python, SQL, R, HTML, CSS
-*   **Reporting Tools:** Tableau, Power BI, Microsoft Excel
+*   **Reporting Tools:** Tableau, Power BI, SAS Visual Analytics, Microsoft Excel
 *   **Libraries:** NLTK, Scikit-Learn, SciPy, Pandas, NumPy, Seaborn, TensorFlow
-*   **Big Data and DW Tools:** MySQL, PostgreSQL, AWS Athena, Kafka, SAP Data Services
-*   **Statistics/ML:** Linear/Logistic Regression, Classification, Clustering, Sentiment Analysis, NLP, CART
+*   **Big Data and DW Tools:** MySQL, Oracle DB, PostgreSQL, AWS S3, Athena, Apache Kafka, Google BigQuery
+*   **Statistics/ML:** CART, NLP, Clustering, Sentiment Analysis, Deep Learning, Time Series Analysis
+*   **Cloud Environment:** Amazon Web Services, Google Cloud Platform, Docker, Kubernets, Git
 
 ## Certifications
 *	Machine Learning, Data Science and Deep Learning with Python | Udemy  
 *	Statistics for Business Analytics and Data Science | Udemy 
 *	Python for Data Science and Machine Learning Bootcamp | Udemy 
-*	Automation Drive Academy | Python Virtual Classroom | Capgemini University | June ’17 – July ‘17
+*	Automation Drive Academy | Python Virtual Classroom | Capgemini University | June’17 – July’17
 *	PowerShell Scripting 5.0 | Skillsoft | Capgemini University
-*	Google Analytics for beginners, Advanced Google Analytics | Google |May ’18 – Aug ‘18 
+*	Google Analytics for beginners, Advanced Google Analytics | Google |May’18 – Aug’18 
 
 ## Activities and Interests
+*	Certified Open Water Diver, Padi Nov’24
 *	Creative Lead at Google Student Ambassador Program.
 *	Diploma in VLSI conducted by ekLakshya VLSI R&D Center Pvt. Ltd. 
 *	Runner-Up in the National Conference on "Recent Technologies in Electronics and Communication" Techxellence – 2016
